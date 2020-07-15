@@ -30,4 +30,3 @@ My Solution for task1
 模型融合：
 stacking
 
-最终成绩 182/3582 top 5%
